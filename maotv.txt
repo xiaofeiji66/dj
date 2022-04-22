@@ -1899,11 +1899,10 @@
         "tudou",
         "pptv",
         "mgtv",
-        "wasu",
-        "renrenmi",
-        "bilibili",
         "cctv",
         "cntv",
+        "wasu",
+        "bilibili",
         "xigua",
         "1905",
         "1920i",
@@ -2152,6 +2151,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper":"https://m31508.jp.cdjxt.net/bzapi.php",
-    "spider":"https://gitee.com/tv88/jar/raw/master/custom_spider_0330.jar"
+    "spider":"https://uujs.ml/api/v3/file/source/7566/custom_spider_2022-3-2.jar?sign=u9zvPzIFzJXg23Ug_RggTWRDOHofPY3c_zanzNyVr5Y%3D%3A0;md5;F3359E352694D764A9851D1958417779",
+    "wallpaper":"https://picsum.photos/1080"
 }
